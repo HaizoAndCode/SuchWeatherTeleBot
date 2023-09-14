@@ -6,8 +6,8 @@ import json
 
 
 # token and api
-bot = telebot.TeleBot('you token')
-API = 'you api'
+bot = telebot.TeleBot('your token')
+API = 'your api on OpenWeather'
 # 
 city_names = [
     "Москва",
