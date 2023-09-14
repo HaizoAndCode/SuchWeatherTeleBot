@@ -6,8 +6,8 @@ import json
 
 
 # token and api
-bot = telebot.TeleBot('6633026516:AAGlb9qRIx0nJwnNhCiTxehPrCMWdMlAYDE')
-API = 'e9841484cb023bf0bd8df2bfeeeb7478'
+bot = telebot.TeleBot('you token')
+API = 'you api'
 # 
 city_names = [
     "Москва",
